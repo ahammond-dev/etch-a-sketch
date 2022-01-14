@@ -1,5 +1,5 @@
 # Etch-a-Sketch
-Project from  from theodinproject.org to practice DOM Manipulation
+Project from theodinproject.org to practice DOM Manipulation
 - Design an Etch-A-Sketch like page that uses DOM manipulation to draw with the Mouse.
 - Add options for different pixel sizes and colors.
 
