@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
+
+.box {
+  background-color: white;
+  padding: 0;
+}
