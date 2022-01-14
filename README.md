@@ -1,4 +1,5 @@
 # Etch-a-Sketch
-Project from The Odin Project to practice DOM Manipulation
-https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/etch-a-sketch-project
+Project from  from theodinproject.org to practice DOM Manipulation
 
+
+Items Utilized / Learned as part of the Project
